@@ -1,3 +1,4 @@
 # beyond-the-brackets
-<p>This is my first Git repository.</p>
-<p>Author- Aniruddhya Das</p>
+This is my first Git repository.
+<br>
+Author- Aniruddhya Das
